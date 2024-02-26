@@ -1,0 +1,23 @@
+{
+    "parameterSets": {
+        "design default values": {
+            "NAME": "4",
+            "custom_height": "44",
+            "custom_length": "45.7",
+            "custom_width": "52.5",
+            "division": "2",
+            "emboss_text": "yes",
+            "epsilon": "0.01",
+            "front_to_back_percentage": "50",
+            "gap": "0.5",
+            "horizontal_chamfer": "4.5",
+            "left_to_right_percentage": "58",
+            "model": "5",
+            "spiral_vase_mode": "yes",
+            "text_depth": "0.25",
+            "vertical_chamfer": "9",
+            "wall_thickness": "0.9"
+        }
+    },
+    "fileFormatVersion": "1"
+}
